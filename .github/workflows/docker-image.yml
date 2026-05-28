@@ -8,7 +8,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ github.repository_owner }}/libraryplatform-database
+  IMAGE_NAME: ${{ github.repository_owner }}/devopslab4-libraryplatform-database
 
 jobs:
   build:
